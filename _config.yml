@@ -1,0 +1,44 @@
+# site settings
+title: 京薬祭
+subtitle: null
+email: youremailaddress@gmail.com
+description: null
+baseurl: null # the subpath of your site, e.g. /blog
+# url: https://kpufes.github.io/23fes/ # the base hostname & protocol for your site
+author: sola0777
+street_address: null
+city: null
+state: null
+zip_code: 
+country: null
+phone: null
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/kpufes
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: 
+  Twitter: https://twitter.com/kyoyakusai
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
