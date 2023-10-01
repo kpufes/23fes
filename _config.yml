@@ -3,7 +3,7 @@ title: 京薬祭
 subtitle: null
 email: youremailaddress@gmail.com
 description: null
-baseurl: null # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 # url: https://kpufes.github.io/23fes/ # the base hostname & protocol for your site
 author: sola0777
 street_address: null
