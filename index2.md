@@ -25,7 +25,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/幕間企画.jpg %}" alt=""  data-position="center center" />
+			<img src="{% link https://github.com/kpufes/23fes/tree/main/assets/images/folder/幕間企画.jpg %}" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
