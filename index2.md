@@ -44,7 +44,7 @@ nav-menu: true
 	<!-- クイズ -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/quiz企画.jpg %}" alt="" data-position="top center" />
+			<img src="assets/images/folder/quiz企画.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -79,7 +79,7 @@ nav-menu: true
 	</section> -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/有志.jpg %}" alt="大道" width="" height="" data-position="25% 25%" />
+			<img src="assets/images/folder/有志.jpg" alt="大道" width="" height="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -96,7 +96,7 @@ nav-menu: true
 	<!-- 京躍華 -->
 	<section>
 	<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/京躍華_紹介イラスト.jpg %}" alt="躍" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/京躍華_紹介イラスト.jpg" alt="躍" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -118,7 +118,7 @@ nav-menu: true
 	<!-- Lod-->
 	<section>
 	<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/LOD.jpeg %}" alt="躍" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/LOD.jpeg %" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -190,7 +190,7 @@ nav-menu: true
 	<!-- 合唱部 -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/gasho_sta.jpg %}" alt="" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/gasho_sta.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -207,7 +207,7 @@ nav-menu: true
 	<!-- ふくびき -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/fuku.jpg %}" alt="" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/fuku.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -224,7 +224,7 @@ nav-menu: true
 	<!-- カラオケ -->
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/karaoke.jpg %}" alt="" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/karaoke.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
