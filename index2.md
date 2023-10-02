@@ -24,7 +24,7 @@ nav-menu: true
 <!-- 幕間 -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/幕間企画.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
@@ -78,7 +78,7 @@ nav-menu: true
 		</div>
 	</section> -->
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/有志.jpg" alt="大道" width="" height="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -95,7 +95,7 @@ nav-menu: true
 	</section>
 	<!-- 京躍華 -->
 	<section>
-	<a href="generic.html" class="image">
+	<a class="image">
 			<img src="assets/images/folder/京躍華_紹介イラスト.jpg" alt="躍" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -117,8 +117,8 @@ nav-menu: true
 	</section>
 	<!-- Lod-->
 	<section>
-	<a href="generic.html" class="image">
-			<img src="assets/images/folder/LOD.jpeg %" alt="" width="" height="" data-position="top center" />
+	<a class="image">
+			<img src="assets/images/folder/LOD.jpeg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -153,8 +153,8 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<!-- 管弦楽部 -->
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/folder/kangen_sta.png %}" alt="" width="" height="" data-position="top center" />
+		<a class="image">
+			<img src="assets/images/folder/kangen_sta.png" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -172,7 +172,7 @@ nav-menu: true
 	</section>
 	<!-- 大喜利 -->
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="{% link assets/images/folder/大喜利企画.png %}" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -189,7 +189,7 @@ nav-menu: true
 	</section>
 	<!-- 合唱部 -->
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/gasho_sta.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -206,7 +206,7 @@ nav-menu: true
 	</section>
 	<!-- ふくびき -->
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/fuku.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -223,7 +223,7 @@ nav-menu: true
 	</section>
 	<!-- カラオケ -->
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/karaoke.jpg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
