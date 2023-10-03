@@ -21,8 +21,8 @@ nav-menu: true
 
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
+		<a class="image">
+			<img src="assets/images/folder/bado.png" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -37,7 +37,39 @@ nav-menu: true
 		</div>
 	</section>
   <section>
-		<a href="generic.html" class="image">
+		<a class="image">
+			<img src="assets/images/folder/danbare.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>男子バレーボール部「焼ききゅん♡そぉばぁ」</h2>
+				</header>
+        <p>やきぞば　500円</p>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	 <section>
+		<a class="image">
+			<img src="assets/images/folder/fri_mogi.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>男子バレーボール部「焼ききゅん♡そぉばぁ」</h2>
+				</header>
+        <p>やきぞば　500円</p>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+  <section>
+		<a class="image">
 			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
@@ -54,24 +86,7 @@ nav-menu: true
 		</div>
 	</section>
   <section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h2>茶道部「茶ぁ…しばこー屋」</h2>
-				</header>
-				<p>4日：スーパーボールすくい　200円</p>
-        <p>5日：抹茶と和菓子のセット　500円</p>
-				<!-- <ul class="actions">
-					 <li><a href="generic.html" class="button">Learn more</a></li> 
-				</ul> -->
-			</div>
-		</div>
-	</section>
-  <section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
