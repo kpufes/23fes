@@ -1,6 +1,6 @@
 ---
 title: 模擬店
-layout: landing
+layout: landing3
 # description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
 # image: assets/images/pic07.jpg
 nav-menu: true
@@ -29,7 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h2>バドミントン部</h2>
 				</header>
-				<p>クリームシチュー 300円</p>
+				<h3>クリームシチュー 300円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -45,7 +45,7 @@ nav-menu: true
 				<header class="major">
 					<h2>男子バレーボール部「焼ききゅん♡そぉばぁ」</h2>
 				</header>
-        <p>やきぞば　500円</p>
+        <h3>やきぞば　500円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -59,9 +59,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>男子バレーボール部「焼ききゅん♡そぉばぁ」</h2>
+					<h2>Friwilly「バタフライピー＆かき氷屋さん」</h2>
 				</header>
-        <p>やきぞば　500円</p>
+        <h3>かき氷　250円<br>
+        バタフライピー　200円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -70,15 +71,15 @@ nav-menu: true
 	</section>
   <section>
 		<a class="image">
-			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
+			<img src="assets/images/folder/keion_mogi.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>茶道部「茶ぁ…しばこー屋」</h2>
+					<h2>軽音楽部「ちゅろす・ざ・ろっく」</h2>
 				</header>
-				<p>4日：スーパーボールすくい　200円</p>
-        <p>5日：抹茶と和菓子のセット　500円</p>
+				<h3>チュロス 300円
+        <br>チュロス＋ドリンク　350円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -87,15 +88,198 @@ nav-menu: true
 	</section>
   <section>
 		<a class="image">
-			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
+			<img src="assets/images/folder/gasho_mogi.jpg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>合唱部「ポップコーン」</h2>
+				</header>
+				<h3>ポップコーン　150円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/ESS.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>ESS「ESSのBOILED GYOZA」</h2>
+				</header>
+				<h3>水餃子　300円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/kendo.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>剣道部「ジョニーを倒せ！」</h2>
+				</header>
+				<h3>1回 100円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/takyu.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>卓球部「フワッフワッフル」</h2>
+				</header>
+				<h3>ワッフル　プレーン　200円
+　　　　　<br>チョコ、抹茶　220円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/kangen_mogi.jpg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>管弦楽部</h2>
+				</header>
+				<h3>ベビーカステラ　300円/500円
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/karate.jpg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>空手道部「空手パンケーキ道」</h2>
+				</header>
+				<h3>パンケーキ　250円（トッピング＋30円）
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/jobare.jpg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>女子バレーボール部「ホットドッグはじめました。」</h2>
+				</header>
+				<h3>ホットドッグ　250円 <br>
+				ドリンク（オレンジジュース、コーラ、ジンジャーエール、ウーロン茶）　50円
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/tenis.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>硬式テニス部「Tenni’s kitchen」</h2>
+				</header>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/tya.png" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h2>茶道部「茶ぁ…しばこー屋」</h2>
 				</header>
-				<p>4日：スーパーボールすくい　200円</p>
-        <p>5日：抹茶と和菓子のセット　500円</p>
+				<h3>4日：スーパーボールすくい　200円 <br>
+				5日：抹茶と和菓子のセット　500円
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/guitarmogi.jpeg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>ギター・マンドリン部「ひびきや」</h2>
+				</header>
+				<h3>わたあめ　200円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/takyu.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>サッカー部「やきとり蹴太郎」</h2>
+				</header>
+				<h3>やきとり（もも、むね、ぼんじり、皮）　150円 <br>コーラ　100円
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/ヨット.jpeg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>・ヨット部「YFC」</h2>
+				</header>
+				<h3>唐揚げ 600円<br>クリームスープ 300円
+　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
