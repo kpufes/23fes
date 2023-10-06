@@ -173,7 +173,7 @@ nav-menu: true
 	<!-- 大喜利 -->
 	<section>
 		<a class="image">
-			<img src="{% link assets/images/folder/大喜利企画.png %}" alt="" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/大喜利企画.png" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

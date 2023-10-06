@@ -143,8 +143,18 @@ nav-menu: true
 				<header class="major">
 					<h2>卓球部「フワッフワッフル」</h2>
 				</header>
-				<h3>ワッフル　プレーン　200円
-　　　　　<br>チョコ、抹茶　220円</h3>
+				<h3>
+				  <ul>
+						<ul>
+							<li>ワッフル 
+									<ul>
+									<li>プレーン 200 円</li>
+									<li>チョコ，抹茶 220 円</li>
+									</ul>
+							</li>
+							</ul>
+						</ul>
+　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -194,8 +204,21 @@ nav-menu: true
 				<header class="major">
 					<h2>女子バレーボール部「ホットドッグはじめました。」</h2>
 				</header>
-				<h3>ホットドッグ　250円 <br>
-				ドリンク（オレンジジュース、コーラ、ジンジャーエール、ウーロン茶）　50円
+				<h3>
+				  <ul>
+						<ul>
+							<li>ホットドッグ 250 円
+								</li>
+							<li>ドリンク 50円
+									<ul>
+									<li>オレンジジュース</li>
+									<li>コーラ</li>
+									<li>ジンジャーエール</li>
+									<li>ウーロン茶</li>
+									</ul>
+							</li>
+							</ul>
+						</ul>
 　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
@@ -254,14 +277,27 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/folder/takyu.png" alt=""  data-position="center center" />
+			<img src="assets/images/folder/yakitori.png" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h2>サッカー部「やきとり蹴太郎」</h2>
 				</header>
-				<h3>やきとり（もも、むね、ぼんじり、皮）　150円 <br>コーラ　100円
+				<h3>
+				  <ul>
+						<ul>
+							<li>やきとり 150円
+									<ul>
+									<li>もも</li>
+									<li>むね</li>
+									<li>ぼんじり</li>
+									<li>皮</li>
+									</ul>
+							</li>
+							<li>コーラ 100 円</li>
+							</ul>
+						</ul>
 　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
