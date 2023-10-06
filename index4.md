@@ -20,22 +20,6 @@ nav-menu: true
 </section> -->
 
 <section id="two" class="spotlights">
-	<section>
-		<a class="image">
-			<img src="assets/images/folder/bado.png" alt=""  data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h2>バドミントン部</h2>
-				</header>
-				<h3>クリームシチュー 300円</h3>
-				<!-- <ul class="actions">
-					 <li><a href="generic.html" class="button">Learn more</a></li> 
-				</ul> -->
-			</div>
-		</div>
-	</section>
   <section>
 		<a class="image">
 			<img src="assets/images/folder/danbare.png" alt=""  data-position="center center" />
@@ -46,6 +30,22 @@ nav-menu: true
 					<h2>男子バレーボール部「焼ききゅん♡そぉばぁ」</h2>
 				</header>
         <h3>やきぞば　500円</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/bado.png" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>バドミントン部</h2>
+				</header>
+				<h3>クリームシチュー 300円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -235,6 +235,19 @@ nav-menu: true
 				<header class="major">
 					<h2>硬式テニス部「Tenni’s kitchen」</h2>
 				</header>
+				<h3>
+				  <ul>
+						<ul>
+							<li>フランクフルト 200円
+							</li>
+							<li>フレーバーポテト</li>
+							<ul>
+									<li>S 200円</li>
+									<li>M 300円</li>
+									</ul>
+							</ul>
+						</ul>
+　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -312,7 +325,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>・ヨット部「YFC」</h2>
+					<h2>ヨット部「YFC」</h2>
 				</header>
 				<h3>唐揚げ 600円<br>クリームスープ 300円
 　　　　　</h3>
@@ -322,6 +335,24 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a class="image">
+			<img src="assets/images/folder/oshare.jpg" alt=""  data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>おしゃれ貴族「おしゃれな貴族のごまだんご」</h2>
+				</header>
+				<h3>ごまだんご 300円<br>ホットドリンク 150円 <br> ごまだんご＋ドリンク 400円
+　　　　　</h3>
+				<!-- <ul class="actions">
+					 <li><a href="generic.html" class="button">Learn more</a></li> 
+				</ul> -->
+			</div>
+		</div>
+	</section>
+
 </section>
 
 </div>
