@@ -79,7 +79,7 @@ nav-menu: true
 	</section> -->
 	<section>
 		<a class="image">
-			<img src="assets/images/folder/有志.jpg" alt="大道" width="" height="" data-position="25% 25%" />
+			<img src="assets/images/folder/daidou.jpg" alt="大道" width="" height="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
