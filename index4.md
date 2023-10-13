@@ -88,7 +88,7 @@ nav-menu: true
 	</section>
   <section>
 		<a class="image">
-			<img src="assets/images/folder/gasho_mogi.jpg" alt=""  data-position="center center" />
+			<img src="assets/images/folder/gashou1.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -180,14 +180,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/folder/karate.jpg" alt=""  data-position="center center" />
+			<img src="assets/images/folder/karate1.jpg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h2>空手道部「空手パンケーキ道」</h2>
 				</header>
-				<h3>パンケーキ　250円（トッピング＋30円）
+				<h3>パンケーキ　400円 <br>（トッピング(いちご，チョコソース)＋50円）
 　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 

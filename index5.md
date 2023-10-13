@@ -21,8 +21,9 @@ nav-menu: true
 		<header class="major">
 			<h2>開催概要</h2>
 		</header>
-    <p> 11月5日 (日) 15:10〜予定</p>
-    <p> 一般 1500 円 (先着100人予定) <br> 学内 無料</p>
+    <p> 11月5日 (日) 15:10〜 
+		<br>受付販売, 12:00から</p>
+    <p> 一般 1500 円 (先着100人予定 )<br> 学内 無料</p>
   </div>
 </section>
 <section id="one">

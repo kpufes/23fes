@@ -71,7 +71,7 @@ nav-menu: true
 <!-- 写真 -->
   <section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/folder/shasin.png" alt="" data-position="top center" />
+			<img src="assets/images/folder/shasin2.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
