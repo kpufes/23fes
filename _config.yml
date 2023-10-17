@@ -44,7 +44,7 @@ exclude:
 - README.md 
 
 plugins:
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-google_search_console_verification_file
 
 google_search_console:
