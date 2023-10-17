@@ -38,14 +38,15 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/folder/bado.png" alt=""  data-position="center center" />
+			<img src="assets/images/folder/bado2.png" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h2>バドミントン部</h2>
 				</header>
-				<h3>クリームシチュー 300円</h3>
+				<h3>たこせん 200円<br>
+				大学芋 200円</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
@@ -209,7 +210,7 @@ nav-menu: true
 						<ul>
 							<li>ホットドッグ 250 円
 								</li>
-							<li>ドリンク 50円
+							<li>ドリンク 100円
 									<ul>
 									<li>オレンジジュース</li>
 									<li>コーラ</li>
@@ -217,6 +218,7 @@ nav-menu: true
 									<li>ウーロン茶</li>
 									</ul>
 							</li>
+							<li>セット 300 円</li>
 							</ul>
 						</ul>
 　　　　　</h3>
@@ -308,7 +310,9 @@ nav-menu: true
 									<li>皮</li>
 									</ul>
 							</li>
-							<li>コーラ 100 円</li>
+							<li>コーラ 100円</li>
+							<li>ラムネ 200円</li>
+							<li>カルピス 150円</li>
 							</ul>
 						</ul>
 　　　　　</h3>
@@ -327,7 +331,7 @@ nav-menu: true
 				<header class="major">
 					<h2>ヨット部「YFC」</h2>
 				</header>
-				<h3>唐揚げ 600円<br>クリームスープ 300円
+				<h3>唐揚げ 400円<br>クリームスープ 300円
 　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
