@@ -118,7 +118,7 @@ nav-menu: true
 	<!-- Lod-->
 	<section>
 	<a class="image">
-			<img src="assets/images/folder/lod_sta2b.jpeg" alt="" width="" height="" data-position="top center" />
+			<img src="assets/images/folder/lod_sta2.jpeg" alt="" width="" height="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
