@@ -169,9 +169,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h2>管弦楽部</h2>
+					<h2>管弦楽部「Okastera」</h2>
 				</header>
-				<h3>ベビーカステラ　300円/500円
+				<h3>ベビーカステラ　300円/400円/500円
 　　　　　</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
