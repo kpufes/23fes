@@ -49,3 +49,6 @@ plugins:
 
 google_search_console:
   verification_file_code: f163ef4b18b4ff6a
+
+# analytics
+google_analytics: G-4JXM0CDKTR
