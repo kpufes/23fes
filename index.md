@@ -17,6 +17,21 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/nakigoto-reco/pl.u-4JomzkDFJe7Njg"></iframe> -->
 
 <section id="one">
+  <div class="inner">
+	  <header class="major">
+		 <h1>タイムテーブル</h1>
+		 </header>
+		 <h2>11月4日</h2>
+		 <a class="image">
+			<img src="assets/images/folder/timetable1.jpg" alt=""  data-position="center center" />
+		</a>
+		<h2>11月5日</h2>
+		<a class="image">
+			<img src="assets/images/folder/timetable2.jpg" alt=""  data-position="center center" />
+		</a>
+	</div>
+</section>
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>京都薬科大学へのアクセス</h1>
