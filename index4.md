@@ -38,7 +38,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a class="image">
-			<img src="assets/images/folder/bado2.png" alt=""  data-position="center center" />
+			<img src="assets/images/folder/bado2.jpeg" alt=""  data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

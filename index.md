@@ -29,6 +29,27 @@ Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris a
 		<a class="image">
 			<img src="assets/images/folder/timetable2.jpg" alt=""  data-position="center center" />
 		</a>
+		<p></p>
+	</div>
+</section>
+<section id="one">
+  <div class="inner">
+	  <header class="major">
+		 <h1>学内マップ</h1>
+		 </header>
+		 <h2>躬行館</h2>
+		 <a class="image">
+			<img src="assets/images/folder/map_kyu.jpg" alt=""  data-position="center center" />
+		</a>
+	</div>
+</section>
+<section id="one">
+  <div class="inner">
+	  <header class="major">
+		 <h1>パンフレット</h1>
+		 </header>
+		 <a href="assets/pdfs/panf.pdf" download>パンフレットはこちら</a>
+		 <p></p>
 	</div>
 </section>
 <section id="one">
