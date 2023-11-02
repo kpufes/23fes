@@ -128,7 +128,13 @@ nav-menu: true
 				<header class="major">
 					<h2>剣道部「ジョニーを倒せ！」</h2>
 				</header>
-				<h3>1回 100円</h3>
+				<h3>
+				<ul>
+						<li>大学生以上 300円</li>
+						<li>高校生 200円</li>
+						<li>小中学生 100円</li>
+				</ul>
+				</h3>
 				<!-- <ul class="actions">
 					 <li><a href="generic.html" class="button">Learn more</a></li> 
 				</ul> -->
