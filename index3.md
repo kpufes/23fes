@@ -25,6 +25,7 @@ nav-menu: true
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/folder/kaionstage2.jpg" alt=""  data-position="center center" />
+			<img src="assets/images/folder/timekei.JPG" alt = "" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
